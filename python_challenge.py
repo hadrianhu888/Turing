@@ -1,3 +1,11 @@
+"""summary_line
+
+Keyword arguments:
+argument -- description
+Return: return_description
+"""
+
+# Description: This program will take a list of numbers and return the max, min, average, median, and mode.
 
 def find_max(nums):
     """Find the max number in a list of numbers."""
